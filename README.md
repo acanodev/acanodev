@@ -100,6 +100,7 @@ I value understanding over memorizing, and efficiency over complexity.
 
 ## 🤝 Connect with me
 
-![Gmail](https://img.shields.io/badge/Email-aaroncanofdez@gmail.com-red?style=for-the-badge\&logo=gmail\&logoColor=white)
+[![Gmail](https://img.shields.io/badge/Email-aaroncanofdez@gmail.com-red?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:aaroncanofdez@gmail.com)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/aar%C3%B3n-cano-42b694304/)
 
 ---
