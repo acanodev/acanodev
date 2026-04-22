@@ -94,6 +94,7 @@ I value understanding over memorizing, and efficiency over complexity.
 ## 🔥 Featured Projects
 
 * [🐉 **Yakuza Like a Dragon API**](https://github.com/acanodev/yakuza_like_a_dragon_api)
+* Metari (in progress)
 * 🌐 Portfolio (in progress)
 
 ---
